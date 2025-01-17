@@ -1,0 +1,2 @@
+Использовать cmd от имени эмулятора
+npm init vue@latest
