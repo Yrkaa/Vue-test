@@ -1,2 +1,2 @@
-Использовать cmd от имени эмулятора
-npm init vue@latest
+npm init vue@latest - создать проект
+npm run dev - запустить( а вообще смотреть package.json)
